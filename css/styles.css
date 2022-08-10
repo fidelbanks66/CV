@@ -1,0 +1,19 @@
+body {
+       background-color: lavender;
+    }
+    hr{
+      background-color: black;
+      border-style: none;
+      border-top-style:dotted;
+      width: inherit;
+
+    }
+    img {
+      height:200px;
+    }
+    h1{
+      color: #377D71 ;
+    }
+    h3{
+       color: #66BFBF;
+    }
